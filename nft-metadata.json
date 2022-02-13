@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Maltipoo"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Mocha"
+    }
+  ],
+  "description": "An NFT for MetaSchool",
+  "image": "https://gateway.pinata.cloud/ipfs/QmbjasGHWhDyizG1YJYZAjiLp2gPtVs8ktGiqYnfbj5Di4",
+  "name": "MetaSchool NFT"
+}
